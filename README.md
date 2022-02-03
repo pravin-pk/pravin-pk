@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on college related academic projects
 - 🌱 I’m currently learning Machine Learning , Deep Learning, Self-driving cars and Django
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🤔 I usually prefer Back-end related works ...
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: 
 
