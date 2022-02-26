@@ -1,4 +1,8 @@
-# Hi there , I'm PK👋
+ <p align="center"><img src="https://i.imgur.com/vdZleU2.png?1" width=auto height="400" /></p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=3000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Pravin+Kumar+;I+am+a+Python+Programmer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
+
+<!-- # Hi there , I'm PK👋 -->
 
 <!-- **pravin-pk/pravin-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
