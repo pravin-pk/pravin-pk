@@ -1,6 +1,5 @@
 # Hi there , I'm PK👋
 
-
 <!-- **pravin-pk/pravin-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
@@ -20,9 +19,17 @@
  -->
  <br>
 
+<div align="center">
+<a href="https://linkedin.com/in/pravinkumar-pk" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/pravinkumar-pk/" height="30">
+<a href="https://https://www.hackerrank.com/pk_pravin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="https://www.hackerrank.com/pk_pravin" height="30"></a>
+<br><br>
+</div>
+
 
 ![pravin-pk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravin-pk&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
-&nbsp;
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-pk&theme=dark&layout=compact)
 
 
@@ -46,5 +53,8 @@
 <img align="left" alt="premierpro" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
 <img align="left" alt="raspberrypi" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
+<br>
+<br>
+<br>
+
+
