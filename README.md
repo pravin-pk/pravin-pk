@@ -1,6 +1,6 @@
  <p align="center"><img src="https://i.imgur.com/vdZleU2.png?1" width=auto height="400" /></p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=3000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Pravin+Kumar+;I+am+a+Python+Programmer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=4000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Pravin+Kumar+;I+am+a+Python+Programmer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
 
 <!-- # Hi there , I'm PK👋 -->
 
@@ -26,7 +26,7 @@
 <div align="center">
 <a href="https://linkedin.com/in/pravinkumar-pk" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/pravinkumar-pk/" height="30">
-<a href="https://https://www.hackerrank.com/pk_pravin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/pk_pravin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="https://www.hackerrank.com/pk_pravin" height="30"></a>
 <br><br>
 </div>
