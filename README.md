@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on college related academic projects
 - 🌱 I’m currently learning Machine Learning , Deep Learning, Self-driving cars and Django
 - 🤔 I usually prefer Back-end related works ...
+- 📑 Here's [My Resume](https://resume.io/r/HWEL1zeal)
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 <!-- - 💬 Ask me about ... -->
