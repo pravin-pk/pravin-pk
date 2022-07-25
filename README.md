@@ -1,4 +1,4 @@
- <p align="center"><img src="https://i.imgur.com/QjD80Mh.png" width=auto height="300" /></p>
+ <!-- <p align="center"><img src="https://i.imgur.com/QjD80Mh.png" width=auto height="300" /></p> -->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=4000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Pravin+Kumar+;I+am+a+Python+Programmer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
 
@@ -8,8 +8,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on college related academic projects
-- 🌱 I’m currently learning Machine Learning , Deep Learning, Self-driving cars and Django
+- 🔭 I’m working on  academic projects
+- 🌱 Also studying Machine Learning , Deep Learning, Self-driving cars and Django
 - 🤔 I usually prefer Back-end related works ...
 - 📑 Here's [My Resume](https://resume.io/r/HWEL1zeal)
 <!-- - 👯 I’m looking to collaborate on ... -->
