@@ -8,10 +8,10 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m working on  academic projects
+- 🔭 I’m working on academic projects
 - 🌱 Also studying Machine Learning , Deep Learning, Self-driving cars and Django
 - 🤔 I usually prefer Back-end related works ...
-- 📑 Here's [My Resume](https://resume.io/r/HWEL1zeal)
+- 📑 Here's [My Resume](https://drive.google.com/file/d/1Eio-XfHbrSM6b2BfalTmFjCqA2A-OWi1/view)
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 <!-- - 💬 Ask me about ... -->
