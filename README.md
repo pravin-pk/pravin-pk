@@ -8,9 +8,9 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m working on academic projects
+- 🔭 I’m working on academic and personal projects
 - 🌱 Also studying Machine Learning , Deep Learning, Self-driving cars and Django
-- 🤔 I usually prefer Back-end related works ...
+- 🤔 I prefer Back-end related works -> API development, setting up server, ...
 - 📑 Here's [My Resume](https://drive.google.com/file/d/1Eio-XfHbrSM6b2BfalTmFjCqA2A-OWi1/view)
 <!-- - 👯 I’m looking to collaborate on ... -->
 
