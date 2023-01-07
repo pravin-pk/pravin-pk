@@ -8,7 +8,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m working on academic and personal projects
+- 🔭 Just Working on some random but Interesting projects 😶‍🌫️
 - 🌱 Also studying Machine Learning , Deep Learning, Self-driving cars and Django
 - 🤔 I prefer Back-end related works -> API development, setting up server, ...
 - 📑 Here's [My Resume](https://drive.google.com/file/d/1Eio-XfHbrSM6b2BfalTmFjCqA2A-OWi1/view)
