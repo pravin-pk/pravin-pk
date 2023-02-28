@@ -1,6 +1,6 @@
  <!-- <p align="center"><img src="https://i.imgur.com/QjD80Mh.png" width=auto height="300" /></p> -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=4000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Pravin+Kumar+;I+am+a+Python+Programmer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=4000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Pravin+Kumar+;A+Programmer+/+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
 
 <!-- # Hi there , I'm PK👋 -->
 
@@ -9,8 +9,8 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 Just Working on some random but Interesting projects 😶‍🌫️
-- 🌱 Also studying Machine Learning , Deep Learning, Self-driving cars and Django
-- 🤔 I prefer Back-end related works -> API development, setting up server, ...
+- 🤔 I prefer working on Back-end Services, Databases and IoT
+- 🌱 Also studying Self-driving cars, Designing and Physics
 - 📑 Here's [My Resume](https://drive.google.com/file/d/1Eio-XfHbrSM6b2BfalTmFjCqA2A-OWi1/view)
 <!-- - 👯 I’m looking to collaborate on ... -->
 
@@ -35,7 +35,7 @@
 
 ![pravin-pk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravin-pk&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-pk&theme=dark&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-pk&theme=dark&layout=compact) -->
 
 
 ### Languages and Tools:
