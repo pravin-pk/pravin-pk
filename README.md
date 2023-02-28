@@ -1,12 +1,14 @@
  <!-- <p align="center"><img src="https://i.imgur.com/QjD80Mh.png" width=auto height="300" /></p> -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=4000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Pravin+Kumar+;A+Programmer+/+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=source+code+pro&color=%23F7F7F7&center=true&duration=4000&lines=Hi+there%F0%9F%91%8B%2C+I+am+Pravin+Kumar+;A+Backend+Developer+/+Programmer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)
 
 <!-- # Hi there , I'm PK👋 -->
 
 <!-- **pravin-pk/pravin-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
+  <img width="300px" align="right" src="https://user-images.githubusercontent.com/65854432/131634214-91274d8f-4f2f-4a91-bee8-276f5c3069eb.gif"/>
+
 
 - 🔭 Just Working on some random but Interesting projects 😶‍🌫️
 - 🤔 I prefer working on Back-end Services, Databases and IoT
@@ -24,11 +26,11 @@
  -->
  <br>
 
-<div align="center">
-<a href="https://linkedin.com/in/pravinkumar-pk" target="_blank">
+<div>
+<a href="https://linkedin.com/in/pravinkumar-pk" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/pravinkumar-pk/" height="30">
-<a href="https://www.hackerrank.com/pk_pravin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="https://www.hackerrank.com/pk_pravin" height="30"></a>
+<!-- <a href="https://www.hackerrank.com/pk_pravin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="https://www.hackerrank.com/pk_pravin" height="30"></a> -->
 <br><br>
 </div>
 
@@ -38,7 +40,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-pk&theme=dark&layout=compact) -->
 
 
-### Languages and Tools:
+### My Stack 🧑‍💻:
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -57,6 +59,7 @@
 <img align="left" alt="linux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="premierpro" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
 <img align="left" alt="raspberrypi" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="raspberrypi" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
